@@ -1,4 +1,4 @@
-# Project -1 National Park Geek
+# Project 1: National Park Geek
 ![NPG](assets/images/Lassen.jpg)
 Our team found very quickly, that our common interest was Hiking, Outdoors Activities and National Parks!! We wanted to make a website where
 we were able to combine all of those interests into one easy application. We really enjoyed working with each other and really got a long great in building this project.
